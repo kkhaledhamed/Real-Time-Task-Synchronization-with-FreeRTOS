@@ -70,5 +70,5 @@ Higher average sending times.
 Smoother operation overall.
 ### Total Messages Statistics
 Detailed statistics for each iteration with queue sizes 3 and 10 are provided to evaluate the performance of the system.
-
-## With my very special thanks to my teammate [Sarah Abdelatty](https://github.com/SarahAbelatty)
+- - -
+With my very special thanks to my teammate [Sarah Abdelatty](https://github.com/SarahAbelatty)
